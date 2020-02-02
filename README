@@ -1,0 +1,3 @@
+# README 
+
+A terraform recipe for spinning up AWS ec2 and printing out the ssh command.
